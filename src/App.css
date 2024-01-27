@@ -1,0 +1,68 @@
+/* App.css */
+.screen {
+  text-align: center;
+  margin: 50px;
+  padding: 20px;
+}
+
+.selection-screen {
+  background-color: #fcdfe7; /* Light pink background for Valentine's theme */
+}
+.rejection-screen {
+  background-color: #fcdfe7; /* Light pink background for Valentine's theme */
+  display: flex;
+}
+/* App.css */
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fcdfe7; /* Light pink background for Valentine's theme */
+}
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+/* Styling for buttons */
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #ff7eb6; /* Light pink button color */
+  color: #fff;
+  outline: none;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #ff5c93; /* Slightly darker pink on hover */
+}
+/* App.css */
+.model-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  float: left;
+  height: 500px;
+}
+
+.select {
+  float: left;
+  align-items: center;
+  display: flex;
+}
+
+.large-container {
+  display: flex;
+}
+/* Add any additional styling as needed */
