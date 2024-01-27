@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valentines-card/static/css/main.1b650500.css",
+    "main.js": "/valentines-card/static/js/main.f892a498.js",
+    "static/js/787.44778e00.chunk.js": "/valentines-card/static/js/787.44778e00.chunk.js",
+    "index.html": "/valentines-card/index.html",
+    "main.1b650500.css.map": "/valentines-card/static/css/main.1b650500.css.map",
+    "main.f892a498.js.map": "/valentines-card/static/js/main.f892a498.js.map",
+    "787.44778e00.chunk.js.map": "/valentines-card/static/js/787.44778e00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b650500.css",
+    "static/js/main.f892a498.js"
+  ]
+}
